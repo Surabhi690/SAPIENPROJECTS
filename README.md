@@ -14,14 +14,14 @@ This project implements a neural network from scratch using only **NumPy** (no K
 
 ## 🧠 Project Highlights
 
-- **Architecture**:
+- Architecture:
   - Input Layer: 3072 neurons (32x32x3 image)
   - Hidden Layer 1: 512 neurons (ReLU)
   - Hidden Layer 2: 256 neurons (ReLU)
   - Output Layer: 3 neurons (Softmax)
-- **Loss Function**: Cross-entropy
-- **Training**: Mini-Batch SGD (batch size = 128)
-- **Metrics**: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
+- Loss Function: Cross-entropy
+- Training: Mini-Batch SGD (batch size = 128)
+- Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 
 ---
 
@@ -32,7 +32,7 @@ This project implements a neural network from scratch using only **NumPy** (no K
 
 ✅ Supports 3 classes: `airplane`, `automobile`, and `bird`  
 ✅ Implements forward propagation, backpropagation, and gradient descent manually  
-✅ Trains until test accuracy reaches **≥60%**  
+✅ Trains until test accuracy reaches ≥60%
 ✅ Outputs precision, recall, F1-score, and a confusion matrix  
 ✅ Includes training loss plot
 
@@ -40,20 +40,20 @@ This project implements a neural network from scratch using only **NumPy** (no K
 
 ## 🧠 Project Highlights
 
-- **Architecture**:
+- Architecture:
   - Input Layer: 3072 neurons (32x32x3 image)
   - Hidden Layer 1: 512 neurons (ReLU)
   - Hidden Layer 2: 256 neurons (ReLU)
   - Output Layer: 3 neurons (Softmax)
-- **Loss Function**: Cross-entropy
-- **Training**: Mini-Batch SGD (batch size = 128)
-- **Metrics**: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
+- Loss Function: Cross-entropy
+- Training: Mini-Batch SGD (batch size = 128)
+- Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 
 ---
 
 ## 🚀 Setup Instructions
 
-1. **Clone the repository**
+1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/cifar10-from-scratch.git
@@ -118,10 +118,6 @@ Allow saving and loading trained weights
 
 Build a simple GUI to test predictions manually
 
-🙋‍♂️ Author
-✍️ Written by a student exploring ML fundamentals
-
-Feel free to fork, star, or suggest improvements!
 
 
 PROBLEM STATEMENT 2
@@ -130,7 +126,7 @@ Real-Time Object Detection Pipeline using YOLOv5 and Webcam
 
 
 ## 📌 Project Overview
-This project implements a real-time object detection pipeline using the YOLOv5 deep learning model, capturing live input directly from the **webcam**. The model detects and classifies objects in real time, displaying bounding boxes with labels and confidence scores over the live feed. This can be used for real-time surveillance, smart automation systems, or interactive applications.
+This project implements a real-time object detection pipeline using the YOLOv5 deep learning model, capturing live input directly from the webcam. The model detects and classifies objects in real time, displaying bounding boxes with labels and confidence scores over the live feed. This can be used for real-time surveillance, smart automation systems, or interactive applications.
 
 ## 🛠️ Setup Instructions
 
