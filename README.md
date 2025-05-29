@@ -125,7 +125,9 @@ Feel free to fork, star, or suggest improvements!
 
 
 PROBLEM STATEMENT 2
-# Real-Time Object Detection using YOLOv5 and Webcam
+
+Real-Time Object Detection Pipeline using YOLOv5 and Webcam
+
 
 ## 📌 Project Overview
 This project implements a real-time object detection pipeline using the YOLOv5 deep learning model, capturing live input directly from the **webcam**. The model detects and classifies objects in real time, displaying bounding boxes with labels and confidence scores over the live feed. This can be used for real-time surveillance, smart automation systems, or interactive applications.
